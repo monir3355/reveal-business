@@ -7,14 +7,24 @@
  .carousel-img1 {
     height: 100vh;
     background: url("../images/carousel/3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
  }
  .carousel-img2 {
     height: 100vh;
     background: url("../images/carousel/4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
  }
  .carousel-img3 {
     height: 95vh;
     background: url("../images/carousel/5.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
  }
  .clients-img{
     width: 130px;
