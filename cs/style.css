@@ -1,0 +1,23 @@
+.textPrimary-color {
+    color: #0c2e8a !important;
+}
+.textSecondary-color  {
+    color:#50d8af;
+ }
+ .carousel-img1 {
+    height: 100vh;
+    background: url("../images/carousel/3.jpg");
+ }
+ .carousel-img2 {
+    height: 100vh;
+    background: url("../images/carousel/4.jpg");
+ }
+ .carousel-img3 {
+    height: 100vh;
+    background: url("../images/carousel/5.jpg");
+ }
+ .clients-img{
+    width: 130px;
+    margin-top: 20px;
+    margin-right: 20px;
+ }
